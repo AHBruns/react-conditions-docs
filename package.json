@@ -1,0 +1,19 @@
+{
+  "name": "react-conditions-docs",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {},
+  "keywords": [],
+  "author": "Alex Bruns <alex.h.bruns@gmail.com>",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "parcel": "^2.0.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.17"
+  },
+  "dependencies": {
+    "@alex-bruns/react-conditions": "^1.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
